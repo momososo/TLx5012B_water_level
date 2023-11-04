@@ -20,7 +20,7 @@ void setup()
   delay(1000);
 
   // initial
-  water_level_data.LeverLength = 15;      // 10cm
+  water_level_data.LeverLength = 15;      // 15cm
   water_level_data.FloatballRadius = 1.5; // 1.5cm
 }
 
